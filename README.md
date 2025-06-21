@@ -73,3 +73,5 @@
   After setting everything up, you can serve the Laravel application:
   php artisan serve
   Access the application in your browser, usually at http://127.0.0.1:8000 or http://localhost:8000.
+  ![image](https://github.com/user-attachments/assets/6024bd16-7823-49ec-974d-2ac7835aaeaa)
+
