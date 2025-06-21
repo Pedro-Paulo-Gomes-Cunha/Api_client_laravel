@@ -223,6 +223,11 @@
                 font-size: 0.9em;
             }
         }
+
+        body > div.pagination-links > nav > div.hidden.sm\:flex-1.sm\:flex.sm\:items-center.sm\:justify-between > div:nth-child(2) > span{
+            display: inline-flex;
+            padding: 30p;
+        }
     </style>
 
     </head>
